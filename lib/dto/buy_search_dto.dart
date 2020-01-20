@@ -1,0 +1,3 @@
+class BuySearchDto {
+  String textEntered;
+}

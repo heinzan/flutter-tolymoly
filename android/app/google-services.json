@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028046973932",
+    "firebase_url": "https://tolymoly-ada89.firebaseio.com",
+    "project_id": "tolymoly-ada89",
+    "storage_bucket": "tolymoly-ada89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028046973932:android:9a5cbee0ada6ac40",
+        "android_client_info": {
+          "package_name": "mm.com.tolymoly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028046973932-9qqr6urd6t82mlmp04oabl01tm35di49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJhYD23a8ai3i4YfW4v4sxPggdqXW73c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028046973932-9qqr6urd6t82mlmp04oabl01tm35di49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
